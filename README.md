@@ -9,3 +9,6 @@ An Android Application which makes use of Implicit Intents to understand the fun
 
 Assignment 3: Farm IOT App
 An android application that makes use of Broadcast Receiver to create a IOT based Farm application.
+
+Assignment 4: AsyncTaskDemo
+An Android application that uses a concept of Async Task in Android to display random generated values in a ScrollView.
